@@ -2,7 +2,7 @@
 
 This is a port of [Quixotic Color Scheme](https://github.com/QuixoticCS) for [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
 
-<p align="center"><img width="50%" src="https://raw.githubusercontent.com/QuixoticCS/quixotic-icons/d488f2df1ed38ea03fbbd140c6ea45b29cd205e0/assets/folders.svg?token=AXFBCJBJ3DUEUOOJBRHZPV3C4LKWG"/></p>
+<p align="center"><img width="50%" src="https://github.com/QuixoticCS/quixotic-icons/blob/main/assets/folders.svg"/></p>
 
 ## Requirements
 
