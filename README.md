@@ -1,7 +1,8 @@
-# Quixotic Icons
-
-This is a port of [Quixotic Color Scheme](https://github.com/QuixoticCS) for [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
-
+<h1 align="center">
+	<img src="https://github.com/QuixoticCS/.github/blob/main/profile/assets/logo.svg" width="25%" alt="Logo"/><br/>
+	Quixotic for <a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)">Papirus</a>
+  </h1>
+  
 <p align="center"><img width="50%" src="https://github.com/QuixoticCS/quixotic-icons/blob/main/assets/folders.svg"/></p>
 
 ## Requirements
