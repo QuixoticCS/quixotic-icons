@@ -12,6 +12,9 @@
 </h2>
 
 ## Installation
+### Special Edition:
+Download `Quixotic-SE.tar.bz2 ` archive from [Releases](https://github.com/QuixoticCS/quixotic-icons/releases/) and extract into `~/.local/share/icons` or `/usr/share/icons`
+
 ### Original:
 
 Ensure [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) is installed, then do the following:
@@ -31,8 +34,6 @@ sudo cp -r src/* /usr/share/icons/Papirus
 # quixotic color options: quixotic-red, quixotic-pink, quixotic-green, quixotic-blue, quixotic-purple, quixotic-cyan
 # Theme options: Papirus-Dark, Papirus-Light
 ```
-### Special Edition:
-Download `Quixotic-SE.tar.bz2 ` archive from [Releases](https://github.com/QuixoticCS/quixotic-icons/releases/) and extract into `~/.local/share/icons` or `/usr/share/icons`
 
 ## Applying
 
