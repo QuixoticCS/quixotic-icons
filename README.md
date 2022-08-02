@@ -32,7 +32,7 @@ sudo cp -r src/* /usr/share/icons/Papirus
 # Theme options: Papirus-Dark, Papirus-Light
 ```
 ### Special Edition:
-Download `Quixotic-SE.zip` archive from [Releases](https://github.com/QuixoticCS/quixotic-icons/releases/) and extract into `~/.local/share/icons` or `/usr/share/icons`
+Download `Quixotic-SE.tar.bz2 ` archive from [Releases](https://github.com/QuixoticCS/quixotic-icons/releases/) and extract into `~/.local/share/icons` or `/usr/share/icons`
 
 ## Applying
 
