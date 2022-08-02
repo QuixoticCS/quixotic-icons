@@ -7,16 +7,18 @@
 <p align="center"><img width="50%" src="https://github.com/QuixoticCS/quixotic-icons/blob/main/assets/folders.svg"/></p>
 </h2>
 
-
-## Requirements
-
-Ensure [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) is installed.
+<h2 align="center"> Special Edition:
+<p align="center"><img width="50%" src="https://github.com/QuixoticCS/quixotic-icons/blob/main/assets/folders-se.svg"/></p>
+</h2>
 
 ## Installation
+### Original:
+
+Ensure [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) is installed, then do the following:
 
 ```sh
 
-# First, clone the repository and change location to the cloned directory:
+# Clone the repository and change location to the cloned directory:
 $ git clone https://github.com/QuixoticCS/quixotic-icons
 cd quixotic-icons
 
@@ -29,13 +31,15 @@ sudo cp -r src/* /usr/share/icons/Papirus
 # quixotic color options: quixotic-red, quixotic-pink, quixotic-green, quixotic-blue, quixotic-purple, quixotic-cyan
 # Theme options: Papirus-Dark, Papirus-Light
 ```
+### Special Edition:
+Download `Quixotic-SE.zip` archive from [Releases](https://github.com/QuixoticCS/quixotic-icons/releases/) and extract into `~/.local/share/icons` or `/usr/share/icons`
 
 ## Applying
 
-Set the `gtk-icon-theme` to the theme the icons were applied to during installation in `~/.config/gtk-3.0/settings.ini`. Example:
+Set the `gtk-icon-theme-name` to the theme the icons were applied to during installation in `~/.config/gtk-3.0/settings.ini`. Example:
 
 ```ini
-gtk-icon-theme-name=Papirus-Dark # or Papirus-Light
+gtk-icon-theme-name=Papirus-Dark # or Papirus-Light or Quixotic-SE
 ```
 
 or use a GTK theme manager such as [lxappearance](https://github.com/lxde/lxappearance). 
