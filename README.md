@@ -3,12 +3,12 @@
 	Quixotic for <a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)">Papirus</a>
   </h1>
 
-<h2 align="center"> Original:
-<p align="center"><img width="50%" src="https://github.com/QuixoticCS/quixotic-icons/blob/main/assets/folders.svg"/></p>
+<h2 align="center"> Special Edition: <br><br>
+<p align="center"><img width="50%" src="https://github.com/QuixoticCS/quixotic-icons/blob/main/assets/folders-se.svg"/></p>
 </h2>
 
-<h2 align="center"> Special Edition:
-<p align="center"><img width="50%" src="https://github.com/QuixoticCS/quixotic-icons/blob/main/assets/folders-se.svg"/></p>
+<h2 align="center"> Original: <br><br>
+<p align="center"><img width="50%" src="https://github.com/QuixoticCS/quixotic-icons/blob/main/assets/folders.svg"/></p>
 </h2>
 
 ## Installation
